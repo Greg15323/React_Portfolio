@@ -118,34 +118,40 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Track your fitness",
+        "category":"Input and view your fitness data",
+        "image":"fitness.png",
+        "url":"https://evening-reaches-99053.herokuapp.com/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"My Reading List",
+        "category":"Compile your own personal reading list from an API",
+        "image":"reading-list.png",
+        "url":"https://valborg1.github.io/Book-Finder/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Resume Portfolio",
+        "category":"React based portfolio",
+        "image":"portfolio.png",
+        "url":""
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Color Study Palette",
+        "category":"This website gathers information about peoples personal color palette and displays the averege results ",
+        "image":"color.png",
+        "url":"https://colorproject.herokuapp.com/results"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Weather Dashboard",
+        "category":"A weather app that allows users to enter location and display real time weather conditions",
+        "image":"finalweatherapp.jpg",
+        "url":"https://greg15323.github.io/The_Weather_Man/"
+      },
+      {
+        "title":"Budget Tracker App",
+        "category":"(Compatible offline) A downloadable budget app that allows users to log and enter expenses",
+        "image":"budget.png",
+        "url":"https://pure-dawn-53375.herokuapp.com/"
       }
     ]
   },
