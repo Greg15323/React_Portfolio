@@ -2,7 +2,7 @@
   "main": {
     "name":"Greg Rodriguez",
     "occupation":"Full Stack Web Developer",
-    "description":"I go above and beyond on any project and put value in my team. ",
+    "description":"I go above and beyond on any project and put value in my team",
     "image":"profilepic.jpg",
     "bio":"I am driven by the evolution of technology and what it brings to modern day. I enjoy engaging in new knowledge and acquiring life and fun needed skills.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -39,7 +39,7 @@
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/",
+        "url":"https://www.instagram.com/gregstatuss/",
         "className":"fa fa-instagram"
       },
       {
