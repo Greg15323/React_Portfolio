@@ -61,27 +61,21 @@
         "school":"University of Utah",
         "degree":"Full-Stack Web Developer Certificate",
         "graduated":"March 2021",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Developed strong skills on how to build dynamic end-to-end applications. Proficient in JavaScript, HTML, CSS, Bootstrap, jQuery, Express.js, React.js, Node.js, MongoDB, mySQL, Command Line, Git."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Weber State University",
+        "degree":"Health Sciences",
+        "graduated":"2015",
+        "description":"Studied and researched general health sciences."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Makers Line",
+        "title":"Journeyman, Surveyor",
+        "years":"2014",
+        "description":"Worked alongside large teams and individuals on various commercial development sites around the state of Utah including projects like the new Salt Lake City International Airport, Facebook database, and Hill Field Airforce Base."
       }
     ],
     "skills":[
