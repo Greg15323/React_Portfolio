@@ -146,6 +146,12 @@
         "category":"(Compatible offline) A downloadable budget app that allows users to log and enter expenses",
         "image":"budget.png",
         "url":"https://pure-dawn-53375.herokuapp.com/"
+      },
+      {
+        "title":"Glimpse",
+        "category":"A simple social media app (more features to be added in the future)",
+        "image":"glimpse.png",
+        "url":"https://solo-project3.netlify.app"
       }
     ]
   },
