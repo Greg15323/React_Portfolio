@@ -81,31 +81,31 @@
     "skills":[
       {
         "name":"JavaScript",
-        "level":"80%"
+        "level":"100%"
       },
       {
         "name":"HTML5",
-        "level":"75%"
+        "level":"100%"
       },
       {
         "name":"CSS",
-        "level":"75%"
+        "level":"100%"
       },
       {
         "name":"ReactJS",
-        "level":"60%"
+        "level":"100%"
       },
       {
         "name":"MongoDB",
-        "level":"80%"
+        "level":"100%"
       },
       {
         "name":"jQuery",
-        "level":"80%"
+        "level":"100%"
       },
       {
         "name":"NodeJS",
-        "level":"65%"
+        "level":"100%"
       }
     ]
   },
