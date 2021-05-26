@@ -29,7 +29,7 @@ class Contact extends Component {
 
                   <p className="lead">{message}</p>
                   <br/>
-                  <p className="lead warning">Warning: Contact form not yet configured, please contact me via nornam email for now <span><a 
+                  <p className="lead warning">Warning: Contact form not yet configured, please contact me via normal email for now <span><a 
                      href="mailto: greg_orio15323@yahoo.com">Greg_orio15323@yahoo.com</a></span></p>
 
             </div>
